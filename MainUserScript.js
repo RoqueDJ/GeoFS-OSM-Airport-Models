@@ -15,8 +15,8 @@
     'use strict';
 
     const scripts = [
-        "https://raw.githubusercontent.com/greenairways/GeoFS-OSM-Airport-Models/main/defaultbuildingremover.js",
-        "https://raw.githubusercontent.com/greenairways/GeoFS-OSM-Airport-Models/main/Userscript.js"
+        "https://raw.githubusercontent.com/RoqueDJ/GeoFS-OSM-Airport-Models/main/defaultbuildingremover.js",
+        "https://raw.githubusercontent.com/RoqueDJ/GeoFS-OSM-Airport-Models/main/Userscript.js"
     ];
 
     async function injectScript(url) {
